@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.DS_Store
+results_*/
+*_results/
+_pending_permission/
+_build_info.json
+figures_in_book.tsv
+figure_script_map.tsv

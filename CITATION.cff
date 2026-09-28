@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the book."
+title: "Code for: Modeling, Analysis, Optimization and Control for Problems on Networks"
+authors:
+  - family-names: Leugering
+    given-names: Günter
+  - family-names: Sokołowski
+    given-names: Jan
+year: 2026
+license: MIT
