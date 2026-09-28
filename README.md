@@ -64,6 +64,8 @@ Results are written to the `results_*` folder next to the script.
 
 If you use this code, please cite the book (see `CITATION.cff`).
 
+Repository: https://github.com/Leugering/GL_JS_Book
+
 ## License
 
 MIT, see `LICENSE`.
